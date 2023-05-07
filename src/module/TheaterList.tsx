@@ -93,7 +93,6 @@ const TheaterList: React.FC = () => {
                                         {movieList.tenPhim}
                                       </h1>
                                       <p>{theaterList.diaChi}</p>
-                                      <p>{movieList.maPhim}</p>
                                     </div>
                                   </div>
                                   <div>
